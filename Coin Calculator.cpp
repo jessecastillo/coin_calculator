@@ -77,7 +77,7 @@ int main()
 	cout << "You have " << one_dollar_quantity << " one-dollar coins." << endl;
 
 	// Final tally and salutations
-	float total = penny_quantity * penny + nickel_quantity * nickel + dime_quantity * dime + quarter_quantity * quarter + half_dollar_quantity * half_dollar + one_dollar_quantity + one_dollar;
+	float total = penny_quantity * penny + nickel_quantity * nickel + dime_quantity * dime + quarter_quantity * quarter + half_dollar_quantity * half_dollar + one_dollar_quantity * one_dollar;
 	cout << "Excellant! So, the total value of your coins is: $" << total << "! Please come back if you need more calculations!" << endl;
 
 
