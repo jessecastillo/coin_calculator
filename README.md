@@ -1,6 +1,6 @@
 # Coin Calculator
 
-<img src="images/coins.jpeg" width="100">
+<img src="images/coins.jpeg" width="150">
 
 
 ---
