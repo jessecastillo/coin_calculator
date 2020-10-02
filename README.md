@@ -32,7 +32,7 @@ To use this program, you can run it inside many text editor debuggers such as Su
 
 Issue #001 - Decimal input by user creates loop
 
-If the user enters a decimal between 0.01 and 0.99, the program will perpetually echo back that value until the user kills the program.
+If the user enters a decimal between 0.01 and 0.99, the program will perpetually echo back the input request until the user kills the program.
 
 ---
 
